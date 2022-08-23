@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ---
-I am Alberto, Penetration Tester and Security Enthusiast
+I am **Alberto**, Penetration Tester and Security Enthusiast
 - 😄 Pronouns: He/Him
 - :round_pushpin: Milan, Italy
-- 🔭 I’m currently working on Web and Mobile application testing for Spike Reply. I hunt for security bugs and report them to clients
+- 🔭 I’m currently working on **Web** and **Mobile application security testing** for Spike Reply. I hunt for security bugs and report them to clients
 - 🌱 I’m currently learning Web and Mobile security (constantly evolving), reverse engineering (beginner)
 - 📫 How to reach me:
   - alberto.giust21[at]gmail.com
