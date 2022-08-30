@@ -15,8 +15,8 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
 - Reading books and blog posts :book:: the best way to improve critical thinking, discover new things, and go deeper on a subject
 - Hiking :mountain:: reaching the top of the cliff is one of the best sensations I had/have/will have
 - Dancing :man_dancing:: the best way for me to get out of my comfort zone, and it always makes me smile
-- Board Games :game_die:: 
-- Sports :soccer: :racing_car:: I love the sport as it is, but I try avoiding factions
+- Board Games :game_die:
+- Sports :soccer: :racing_car:
 
 ### Social
 [![Twitter URL](https://img.shields.io/twitter/url.svg?label=Follow%20%40alright2121&style=social&url=https%3A%2F%2Ftwitter.com%2Falright2121)](https://twitter.com/alright2121)
