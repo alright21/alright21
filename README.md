@@ -8,7 +8,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
 - 🌱 I’m currently learning Web and Mobile Security (constantly evolving), reverse engineering (beginner)
 - 📫 How to reach me:
   - alberto.giust21[at]gmail.com
-  - albejust (Telegram)
+  - alright2121 (Telegram)
 
 ### Interests
 - CTFs :triangular_flag_on_post:: they help me continuously learn while training my problem-solving skills
