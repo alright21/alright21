@@ -5,12 +5,14 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
 - 😄 Pronouns: He/Him
 - :round_pushpin: Milan, Italy
 - 🔭 I’m currently working on **Web** and **Mobile application security testing** for Spike Reply. I hunt for security bugs and report them to clients
-- 🌱 I’m currently learning Web and Mobile Security (constantly evolving), reverse engineering (beginner)
+- 🌱 I’m currently learning Web and Mobile Security (constantly evolving), digital forensics (beginner, studying for eCDFP)
+- 📜 eWPT (eLearn Security Web Penetration Tester)
 - 📫 How to reach me:
   - alberto.giust21[at]gmail.com
   - alright2121 (Telegram)
 
 ### Interests
+- Education in programming and Cybersecurity 🧮: I am currently volunteering in Coderdojo Milano. I am helping kids and teenagers discover this beautiful world:)
 - CTFs :triangular_flag_on_post:: they help me continuously learn while training my problem-solving skills
 - Reading books and blog posts :book:: the best way to improve critical thinking, discover new things, and go deeper on a subject
 - Hiking :mountain:: reaching the top of the cliff is one of the best sensations I had/have/will have
