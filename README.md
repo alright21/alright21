@@ -12,7 +12,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
   - alright2121 (Telegram)
 
 ### Interests
-- Education in programming and Cybersecurity 🧮: I am currently volunteering in Coderdojo Milano. I am helping kids and teenagers discover this beautiful world💭
+- Education in programming and Cybersecurity 🧮: I am currently volunteering in Coderdojo Milano. I am helping kids and teenagers discover this beautiful world
 - CTFs :triangular_flag_on_post:: they help me continuously learn while training my problem-solving skills
 - Reading books and blog posts :book:: the best way to improve critical thinking, discover new things, and go deeper on a subject
 - Hiking :mountain:: reaching the top of the cliff is one of the best sensations I had/have/will have
