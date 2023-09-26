@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ---
 I am **Alberto**, Penetration Tester and Security Enthusiast
@@ -11,7 +11,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
   - alberto.giust21[at]gmail.com
   - @alright2121 (Telegram)
 
-### Interests
+## Interests
 - Mobile Security 📱: I am trying to improve my skills in this area, ranging from static analysis and reversing, to dynamic analysis (Frida is becoming a great friend of mine😄)
 - Education in programming and Cybersecurity 🧮: I am currently volunteering in Coderdojo Milano. I am helping kids and teenagers discover this beautiful world
 - CTFs 🚩: they help me continuously learn while training my problem-solving skills
@@ -21,7 +21,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
 - Board Games and TTRPG 🎲: a great way to spend time with friends, improve decision making and have fun
 - Sports ⚽🏀🏐🖥️: I enjoy watching different sports/esports and support my national team, but I always try to be objective, without being a fanboy😄
 
-### Social
+## Social
 [![Twitter URL](https://img.shields.io/twitter/url.svg?label=Follow%20%40alright2121&style=social&url=https%3A%2F%2Ftwitter.com%2Falright2121)](https://twitter.com/alright2121)
 
 <a href="https://www.linkedin.com/in/alberto-giust/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
