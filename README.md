@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ---
-I am **Alberto**, Penetration Tester and Security Enthusiast
+I am **Alberto**, Penetration Tester and Security Enthusiast (mobile-focused)
 - 😄 Pronouns: He/Him
 - 📍 Milan, Italy
 - 🔭 I’m currently working on **Web** and **Mobile application security testing** for Spike Reply. I hunt for security bugs and report them to clients
@@ -14,6 +14,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast
 ## Interests
 - Mobile Security 📱: I am trying to improve my skills in this area, ranging from static analysis and reversing, to dynamic analysis (Frida is becoming a great friend of mine😄)
 - Education in programming and Cybersecurity 🧮: I am currently volunteering in Coderdojo Milano. I am helping kids and teenagers discover this beautiful world
+- Open Translator 🗣: I am translating Raspberry Pi Foundation coding projects (more info https://alright21.github.io/education/translations/)
 - CTFs 🚩: they help me continuously learn while training my problem-solving skills
 - Reading books and blog posts 📖: the best way to improve critical thinking, discover new things, and go deeper on a subject
 - Hiking ⛰️: reaching the top of the cliff is one of the best sensations I had/have/will have
