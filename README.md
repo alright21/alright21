@@ -28,7 +28,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast (mobile-focused)
 
 <a href="https://www.linkedin.com/in/alberto-giust/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<img src="https://ci3.googleusercontent.com/meips/ADKq_NbRA7fBpDqhMD5KAk8OEjh5ML528AdWZUwQZXc7F2wNrzjNyG5A77aBsg9su5LJXVBVoUIbzZTnky-zKiNyWfppAOws8kzUvt7jAOrcBsLO-C16N8aKTqeEzwiud2vMuVZDzOZnM5TTpZAgc0JIZw2ixZRPHc-IGPWTZBwOnpqWrwN7LXQ=s0-d-e1-ft#https://api.intigriti.com/image-generator/shareimage/researcher/6ffc2d9b-637e-4c50-a284-2e06636a3b58?1719950753" width="30%" alt="Share Image" class="CToWUd" data-bit="iit" jslog="32272; 1:WyIjdGhyZWFkLWY6MTgwMzQ5OTA4MjM5NjY0MTc1NiJd; 4:WyIjbXNnLWY6MTgwMzQ5OTA4MjM5NjY0MTc1NiJd">
+<a href="https://app.intigriti.com/researcher/profile/alright"><img src="https://ci3.googleusercontent.com/meips/ADKq_NbRA7fBpDqhMD5KAk8OEjh5ML528AdWZUwQZXc7F2wNrzjNyG5A77aBsg9su5LJXVBVoUIbzZTnky-zKiNyWfppAOws8kzUvt7jAOrcBsLO-C16N8aKTqeEzwiud2vMuVZDzOZnM5TTpZAgc0JIZw2ixZRPHc-IGPWTZBwOnpqWrwN7LXQ=s0-d-e1-ft#https://api.intigriti.com/image-generator/shareimage/researcher/6ffc2d9b-637e-4c50-a284-2e06636a3b58?1719950753" width="30%" alt="Share Image" class="CToWUd" data-bit="iit" jslog="32272; 1:WyIjdGhyZWFkLWY6MTgwMzQ5OTA4MjM5NjY0MTc1NiJd; 4:WyIjbXNnLWY6MTgwMzQ5OTA4MjM5NjY0MTc1NiJd"></a>
 <!--
 **alright21/alright21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
