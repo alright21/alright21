@@ -11,6 +11,7 @@ I am **Alberto**, Penetration Tester and Security Enthusiast (mobile-focused)
 - 📫 How to reach me:
   - alberto.giust21[at]gmail.com
   - @alright2121 (Telegram)
+- 🖊️ Anonymous feedback: https://www.admonymous.co/alright
 
 ## Interests
 - Mobile Security 📱: I am trying to improve my skills in this area, ranging from static analysis and reversing, to dynamic analysis (Frida is becoming a great friend of mine😄)
