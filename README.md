@@ -4,8 +4,8 @@
 I am **Alberto**, Penetration Tester and Security Enthusiast (mobile-focused)
 - 😄 Pronouns: He/Him
 - 📍 Milan, Italy
-- 🔭 I’m currently working on **Web** and **Mobile application security testing** for Spike Reply. I hunt for security bugs and report them to clients
-- 🌱 I’m currently learning Web and Mobile Security
+- 🔭 I’m currently working as a **Threat Intelligence Analyst** at Cleafy.
+- 🌱 I’m currently learning Android Malware Analysis
 - 📜 eWPT (eLearn Security Web Penetration Tester)
 - 📜 eCDFP (eLearn Certified Digital Forensics Professional)
 - 📫 How to reach me:
